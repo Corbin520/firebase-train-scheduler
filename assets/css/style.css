@@ -1,0 +1,23 @@
+body {
+    background-color: darkgray;
+}
+
+.jumbotron {
+    background-color: black;
+    font-family: 'Bree Serif', serif;
+    color: silver;
+}
+
+td {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+th {
+    font-family: 'Patua One', cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+label {
+    font-family: 'Maven Pro', sans-serif;
+}
